@@ -71,4 +71,5 @@ def getembed(message):
 	embed.set_footer(text=message.embeds[0]['footer']['text']+" - cloned by Felix", icon_url=message.embeds[0]['footer']['icon_url'])
 	embed.set_thumbnail(url=message.embeds[0]['thumbnail']['url'])
 	return embed
+
 client.run(botToken)
