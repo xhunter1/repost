@@ -18,6 +18,8 @@ tbcrepost="469925333089648650"
 obcrepost="469925340215508993"
 
 
+botToken="NDY5NTc4MDg4MDc4OTAxMjU5.DjO5Qg.FO808ECrIAOzvbxjYVmoZDShciU"
+
 
 client=discord.Client()
 @client.event
